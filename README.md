@@ -1,5 +1,5 @@
 # Birthday Wishing App
-*n Birthday Wishing App is an Android application built using Jetpack Compose that allows users to send personalized birthday wishes.
+* Birthday Wishing App is an Android application built using Jetpack Compose that allows users to send personalized birthday wishes.
 
 ## Features
 * Choose from a variety of birthday card designs.
